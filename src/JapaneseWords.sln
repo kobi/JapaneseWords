@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JapaneseWords", "JapaneseWords\JapaneseWords.csproj", "{8F8CD4FD-D6F3-41E1-83E0-4338AFB33458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JapaneseWordsTests", "JapaneseWordsTests\JapaneseWordsTests.csproj", "{7BAB4EFA-D205-44FE-BEF9-5A8FB9E2C0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8CD4FD-D6F3-41E1-83E0-4338AFB33458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8CD4FD-D6F3-41E1-83E0-4338AFB33458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8CD4FD-D6F3-41E1-83E0-4338AFB33458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8CD4FD-D6F3-41E1-83E0-4338AFB33458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAB4EFA-D205-44FE-BEF9-5A8FB9E2C0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAB4EFA-D205-44FE-BEF9-5A8FB9E2C0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAB4EFA-D205-44FE-BEF9-5A8FB9E2C0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAB4EFA-D205-44FE-BEF9-5A8FB9E2C0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
